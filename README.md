@@ -7,6 +7,11 @@
 
 ---
 
+## Overview
+This project aims at conducting data analysis on box office trends to provide strategic recommendations to Microsoft which would like to get in on the movie business. The ultimate objective is to translate these research findings into practical recommendations for the new movie studio, aiding them in making informed choices about the types of films to produce. This strategic approach ensures that Microsoft's entry into the world of filmmaking aligns with current market demands and maximizes the potential for success in the highly competitive entertainment industry
+
+---
+
 ## Business Problem
 Microsoft recognizes the trend among major corporations venturing into original video content production and is eager to join the industry. To seize this opportunity, the company has made the strategic decision to establish its own movie studio. However, given their lack of expertise in the filmmaking domain, the role of this project is to investigate the current landscape of successful films at the box office and analyzing the types of films that are currently performing exceptionally well in terms of box office revenue and ratings. 
 
@@ -50,7 +55,4 @@ These platforms collectively offer a wealth of information for industry professi
 
 ---
 
-## GOAL OF THE PROJECT/ PROBLEM STATEMENT
-This project aims at conducting data analysis on box office trends to provide strategic recommendations to Microsoft which would like to get in on the movie business. The ultimate objective is to translate these research findings into practical recommendations for the new movie studio, aiding them in making informed choices about the types of films to produce. This strategic approach ensures that Microsoft's entry into the world of filmmaking aligns with current market demands and maximizes the potential for success in the highly competitive entertainment industry
 
----
