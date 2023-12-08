@@ -1,15 +1,20 @@
+![Alt text](<Images/Want to Work on a Movie Set_ Here's What You Could Do—and Earn.jpeg>)
+
+
+
 # Box-office-data-analysis-for-Microsoft-recommendations
+  ### Author: George Opondi
 
 ---
 
-## Introduction
+## Business Problem
 Microsoft recognizes the trend among major corporations venturing into original video content production and is eager to join the industry. To seize this opportunity, the company has made the strategic decision to establish its own movie studio. However, given their lack of expertise in the filmmaking domain, the role of this project is to investigate the current landscape of successful films at the box office and analyzing the types of films that are currently performing exceptionally well in terms of box office revenue and ratings. 
 
 The goal of this project therefore is to provide actionable insights that can guide the decision-making process for the head of Microsoft's new movie studio. By understanding the preferences and trends in the market, the project aims to assist Microsoft in identifying the most promising genres, themes, and styles that resonate with audiences.
 
 ---
 
-## Details on the data sets
+## Data understanding
 The datasets are from  popular platforms and databases related to the film industry, each serving different purposes. Here's a brief overview of each:
 1. **Box Office Mojo:**
 
