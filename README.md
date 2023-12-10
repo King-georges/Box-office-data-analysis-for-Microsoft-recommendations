@@ -57,13 +57,58 @@ These platforms collectively offer a wealth of information for industry professi
 
 ## Visualization of Data Analysis
 ![Alt text](<Images/Top performing Genres by numvotes.png>)
+From the analysis we can deduce that the Action,Adventure,Sci-Fi genre attracts large audiences due to its high number of votes. Microsoft would most likely therefore attract large audiences if they produced films in this genre category followed closely by Action,Thriller and Adventure,Drama,Sci-Fi genres.
 ![Alt text](<Images/Top performing Genres by Average rating.png>)
+From the average rating of the films, the Action,Adventure,Sci-Fi genre is still the top performing genre. This genre resonates with audiences and therefore Microsoft would benefit by producing films in this genre category. 
 ![Alt text](<Images/Top performing film titles by average rating.png>)
+Examples of the top rated films are films such as Inception and The Dark Knight Rises.  Comprising of the Action,Adventure,Sci-Fi and the Action, Thriller Genres.
 ![Alt text](<Images/Top 10 grossing movies and production budget (the numbers).png>)
+Bar chart showing the comparison between production budgets and total gross of the top ten highest grossing films. It is worth noting that the production budget affects the total gross. the higher the production budget, the greater the total gross for the films.
 ![Alt text](<Images/Top 10 grossing movies (the numbers).png>)
+According to this bar chart with information from The Numbers csv file, Avatar was the highest grossing film followed closely by Star Ep. VII: The Force Awakens.
 ![Alt text](<Images/Top 10 grossing movies (box office mojo).png>)
+The bar chart shows the total gross(domestic + foreign) of the top ten highest grossing films. From the graph we can see films such as Marvel's The Avengers and Black panther being two of the highest grossing films. 
+![Alt text](<Images/Top 10 studios with highest total gross.png>)
+Bar chart showing the studios wit the highest grossing films.
 ![Alt text](<Images/Number of votes and average rating by film genre.png>)
+This visualization shows both the Number of votes and Average Rating by Film Genre and we can clearly see that the Action,Adventure,Sci-Fi is the best performing genre both by number of votes and average rating.
 ![Alt text](<Images/Average rating and number of votes by film genre.png>)
+This visualization shows both the Average Rating and Number of votes by Film Genre and we can clearly see that the Action,Adventure,Sci-Fi is the best performing genre both by number of votes and average rating.
+
+# Recommendations
+Building upon the analysis of audience preferences and industry dynamics, Microsoft can further refine its film production strategy to align with successful trends observed in the top-performing films
+
+**1. Genre Emphasis and High-Grossing Films:**
+
+---
+
+
+**Insights from High Grossing Films:** Analyzing the top ten high-grossing films from box office mojo gathers reflections on title prominence like Black Panther and Marvel's The Avengers. Considering enormous success of such movies, Microsoft should contemplate about reorientation of its film production strategy towards those films' traits, especially in Action, Adventure and Sci-Fi genres.
+
+**Franchise Potential:** Assess the potential in making franchises out of films belonging to these categories following the successful model of the cinematic universe from Marvel. Interlinked narratives help provided better consumer interaction and could make a film medium successful for a prolong period.
+
+**2. Budget Allocation and Total Gross Optimization:**
+
+---
+
+
+**Strategic Budgeting:** In the light of the fact that the production budgets affect the total gross, Microsoft should acknowledge strategic budgeting. The analysis identifies the high budgetary allocation to have positive correlation with the total gross. While the data indicates a positive correlation between higher budgets and greater total gross, it's crucial to balance investment with effective storytelling and audience connection.
+
+**Risk Mitigation:** Robust risk mitigation strategies to be in place considering higher production budget. That may mean diversification of investments over a mix of high-budgeted blockbusters and mid-range movies, ensuring proper diversified portfolio for financial risk management.
+
+**Creative Cost-Efficiency:** Encourage creative teams to find innovative and cost-effective production methods without compromising on quality. Leveraging technology and industry expertise can optimize production costs while maintaining high standards.
+
+**3. Cross-Functional Collaboration and Industry Partnerships:**
+
+---
+
+
+**Strategic Collaborations:** Curate partnerships with established filmmakers, production companies, and artists who have a track record of making box office hits. Make use of their experience to give Microsoft's film portfolio a boost and provide it a competitive advantage.
+
+**Data-Informed Decision Making:**  Apply data analytics to guide choices on partnership prospects, budget distribution, and genre. This data-driven strategy can offer insightful information about audience preferences and industry trends.
+
+## Conclusion
+By aligning its film production strategy with successful genre preferences, understanding the impact of production budgets, and fostering industry collaborations, Microsoft can position itself for success in the competitive film market. This comprehensive approach not only capitalizes on audience trends but also addresses the financial dynamics crucial for sustained profitability in the film industry.
 
 
 
