@@ -60,37 +60,55 @@ These platforms collectively offer a wealth of information for industry professi
 
 From the analysis we can deduce that the Action,Adventure,Sci-Fi genre attracts large audiences due to its high number of votes. Microsoft would most likely therefore attract large audiences if they produced films in this genre category followed closely by Action,Thriller and Adventure,Drama,Sci-Fi genres.
 
+---
+
 ![Alt text](<Images/Top performing Genres by Average rating.png>)
 
 From the average rating of the films, the Action,Adventure,Sci-Fi genre is still the top performing genre. This genre resonates with audiences and therefore Microsoft would benefit by producing films in this genre category.
+
+---
 
 ![Alt text](<Images/Top performing film titles by average rating.png>)
 
 Examples of the top rated films are films such as Inception and The Dark Knight Rises.  Comprising of the Action,Adventure,Sci-Fi and the Action, Thriller Genres.
 
+---
+
 ![Alt text](<Images/Top 10 grossing movies and production budget (the numbers).png>)
 
 Bar chart showing the comparison between production budgets and total gross of the top ten highest grossing films. It is worth noting that the production budget affects the total gross. the higher the production budget, the greater the total gross for the films.
+
+---
 
 ![Alt text](<Images/Top 10 grossing movies (the numbers).png>)
 
 According to this bar chart with information from The Numbers csv file, Avatar was the highest grossing film followed closely by Star Ep. VII: The Force Awakens.
 
+---
+
 ![Alt text](<Images/Top 10 grossing movies (box office mojo).png>)
 
 The bar chart shows the total gross(domestic + foreign) of the top ten highest grossing films. From the graph we can see films such as Marvel's The Avengers and Black panther being two of the highest grossing films. 
+
+---
 
 ![Alt text](<Images/Top 10 studios with highest total gross.png>)
 
 Bar chart showing the studios wit the highest grossing films.
 
+--- 
+
 ![Alt text](<Images/Number of votes and average rating by film genre.png>)
 
 This visualization shows both the Number of votes and Average Rating by Film Genre and we can clearly see that the Action,Adventure,Sci-Fi is the best performing genre both by number of votes and average rating.
 
+---
+
 ![Alt text](<Images/Average rating and number of votes by film genre.png>)
 
 This visualization shows both the Average Rating and Number of votes by Film Genre and we can clearly see that the Action,Adventure,Sci-Fi is the best performing genre both by number of votes and average rating.
+
+---
 
 # Recommendations
 Building upon the analysis of audience preferences and industry dynamics, Microsoft can further refine its film production strategy to align with successful trends observed in the top-performing films
