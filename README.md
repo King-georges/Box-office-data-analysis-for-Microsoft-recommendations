@@ -55,4 +55,16 @@ These platforms collectively offer a wealth of information for industry professi
 
 ---
 
+## Visualization of Data Analysis
+![Alt text](<Images/Top performing Genres by numvotes.png>)
+![Alt text](<Images/Top performing Genres by Average rating.png>)
+![Alt text](<Images/Top performing film titles by average rating.png>)
+![Alt text](<Images/Top 10 grossing movies and production budget (the numbers).png>)
+![Alt text](<Images/Top 10 grossing movies (the numbers).png>)
+![Alt text](<Images/Top 10 grossing movies (box office mojo).png>)
+![Alt text](<Images/Number of votes and average rating by film genre.png>)
+![Alt text](<Images/Average rating and number of votes by film genre.png>)
+
+
+
 
